@@ -1,0 +1,47 @@
+.login-container {
+    display: flex;
+    flex-direction: row;
+    width: 1440px;
+    height: 1024px;
+    top: 10569px;
+    left: -11402px;
+    padding: 0px 0px 0px 165px;
+    background: #FFFFFF;
+
+} 
+
+.login-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 456px;
+    height: 523px;
+    top: 250px;
+    left: 165px;
+    border-radius: 8px;
+    box-shadow: 0px 8px 40px 0px #07070714;
+    background: #FEFEFF;
+
+} 
+.website-logo {
+    width: 53px;
+    height: 43px;
+    top: 298px;
+    left: 366px;
+    padding: 2px; 
+} 
+
+.heading {
+   width: 80px;
+   height: 40px;
+   top: 405px;
+   left: 353px;
+   background: #0F172A;
+   font-family: DM Sans;
+   font-size: 32px;
+   font-weight: 500;
+   line-height: 40px;
+   letter-spacing: 0em;
+   text-align: center;
+}
